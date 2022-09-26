@@ -16,3 +16,10 @@ int main()
 		printf("its odd number");
 	}
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+4
+its even number
