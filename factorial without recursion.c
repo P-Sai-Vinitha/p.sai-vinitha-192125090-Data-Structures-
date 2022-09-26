@@ -16,5 +16,8 @@ int main()
 }
 
 SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+	
 enter number:6
 factorial of 6 is 720
