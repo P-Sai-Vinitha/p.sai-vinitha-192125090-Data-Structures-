@@ -3,6 +3,9 @@
 long int mul(int n);
 int main()
 {
+	printf("NAME-pandeti sai vinitha\n");
+	printf("REG_NO:192125090");
+	printf("\n\n");
 	int n;
 	printf("enter number:");
 	scanf("%d",&n);
@@ -22,5 +25,8 @@ long int mul(int n)
 }
 
 SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+	
 enter number:6
 factorial of 6 is 720
