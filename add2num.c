@@ -11,3 +11,11 @@ int main()
 	printf("sum=%d",c);
 	return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+2
+2
+sum=4
