@@ -35,3 +35,22 @@ int main()
 	}
 	return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+enter the number of rows and colums:2
+2
+enter the first matrix elements:1
+2
+3
+4
+enter the second matrix elements:1
+2
+3
+4
+multiplication of matrix:1
+4
+9
+16
