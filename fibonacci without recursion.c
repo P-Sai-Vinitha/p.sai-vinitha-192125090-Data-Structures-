@@ -16,3 +16,10 @@ int main()
 		n2=nt;
 	}
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+enter the number:6
+0 1 1 2 3 5
