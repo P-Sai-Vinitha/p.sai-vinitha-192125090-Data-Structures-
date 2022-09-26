@@ -20,3 +20,7 @@ long int mul(int n)
 		return 1;
 	}
 }
+
+SAMPLE OUTPUT:
+enter number:6
+factorial of 6 is 720
