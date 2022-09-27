@@ -24,3 +24,16 @@ int main()
 	}
 	printf("no such element found");
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+5
+1
+2
+3
+4
+5
+5
+5 found at position 4
