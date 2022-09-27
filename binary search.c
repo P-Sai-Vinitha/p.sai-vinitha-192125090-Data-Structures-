@@ -46,3 +46,12 @@ int main()
 	    }
 	
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+5
+1 2 4 3 5
+4
+3
