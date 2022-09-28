@@ -46,3 +46,16 @@ while(pivot>a[i]&&i<=high)
  quicksort(a,j+1,high);
 }
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+
+How many elements you want to sort ? 5
+←nter elements for an array:2
+1
+2
+3
+4
+After Sorting the elements are:1 2 2 3 4
