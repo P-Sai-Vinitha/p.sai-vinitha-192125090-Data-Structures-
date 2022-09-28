@@ -59,19 +59,3 @@ void mergesort(int low,int mid,int high)
 mergesort(low,mid,high);
  }
  }
-
-SAMPLE OUTPUT:
-NAME-pandeti sai vinitha
-REG_NO:192125090
-
-
-Enter the n value:5
-
-Enter elements for an array:2
-1
-3
-5
-4
-
-Before Sorting the elements are:2 1 3 5 4
-After Sorting the elements are:1 2 3 4 5
