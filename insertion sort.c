@@ -20,3 +20,25 @@ void main( )
  printf("%d\n", a[i]);
  getch( );
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+How many elements you want to sort?
+5
+
+Enter the Elements into an array:
+3
+2
+1
+3
+4
+
+
+ Elements after sorting:
+1
+2
+3
+3
+4
