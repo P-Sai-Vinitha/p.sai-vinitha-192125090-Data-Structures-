@@ -56,3 +56,10 @@
     printf("Sorted array is \n");
     printArray(arr, n);
   }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+Sorted array is
+1 5 6 9 10 12
