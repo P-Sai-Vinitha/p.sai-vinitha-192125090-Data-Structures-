@@ -128,3 +128,11 @@ int main() {
       printf("Element not found\n");
    }
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+ ~~  (1,20) (2,70) (42,80) (4,25) ~~  ~~  ~~  ~~  ~~  ~~  ~~  (12,44) (13,78) (14,32) ~~  ~~  (17,11) (37,97) ~~
+Element found: 97
+Element not found
