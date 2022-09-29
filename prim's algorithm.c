@@ -59,3 +59,13 @@ int main() {
 
   return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+Edge : Weight
+0 - 1 : 9
+1 - 3 : 19
+3 - 4 : 31
+3 - 2 : 51
