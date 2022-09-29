@@ -69,3 +69,14 @@ int main() {
   printf("\nPostorder traversal \n");
   postorderTraversal(root);
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+Inorder traversal
+5 ->12 ->6 ->1 ->9 ->
+Preorder traversal
+1 ->12 ->5 ->6 ->9 ->
+Postorder traversal
+5 ->6 ->12 ->9 ->1 ->
