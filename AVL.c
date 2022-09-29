@@ -145,3 +145,10 @@ int main() {
   printPreOrder(root);
   return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+4 2 1 3 7 5 8
+After deletion: 4 2 1 7 5 8
