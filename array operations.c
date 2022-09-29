@@ -80,3 +80,26 @@ int main()
     }
     return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+C Program to Insert and Delete an Element in an Array using switch case
+1. Inserting an Element in an Array
+2. Deleting an Element in an Array
+Select your choice : 1
+Enter the size of an array
+5
+Enter 5 array elements
+1
+2
+3
+4
+5
+List before Insertion: 1 2 3 4 5
+Enter an element to insert
+6
+Enter a position to insert an element 6
+5
+List after Insertion: 1 2 3 4 6 5
