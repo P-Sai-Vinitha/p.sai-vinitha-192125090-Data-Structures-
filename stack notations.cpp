@@ -55,3 +55,18 @@ printf("NAME-pandeti sai vinitha\n");
    printf("Stack empty: %s\n" , isempty()?"true":"false");  
    return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+Element at top of the stack: 15
+Elements:
+15
+12
+1
+9
+5
+3
+Stack full: false
+Stack empty: true
