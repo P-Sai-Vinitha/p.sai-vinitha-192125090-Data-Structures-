@@ -101,3 +101,24 @@ int main() {
 
   return 0;
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+
+ Adjacency list of vertex 0
+ 2 -> 1 ->
+
+ Adjacency list of vertex 1
+ 2 -> 0 ->
+
+ Adjacency list of vertex 2
+ 3 -> 1 -> 0 ->
+
+ Adjacency list of vertex 3
+ 2 ->
+Visited 2
+Visited 3
+Visited 1
+Visited 0
