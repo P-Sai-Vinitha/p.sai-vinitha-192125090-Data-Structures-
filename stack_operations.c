@@ -93,3 +93,63 @@ void display()
     }
    
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+
+ Enter the size of STACK[MAX=100]:70
+
+         STACK OPERATIONS USING ARRAY
+        --------------------------------
+         1.PUSH
+         2.POP
+         3.DISPLAY
+         4.EXIT
+ Enter the Choice:1
+ Enter a value to be pushed:56
+
+ Enter the Choice:1
+ Enter a value to be pushed:34
+
+ Enter the Choice:2
+
+         The popped elements is 34
+ Enter the Choice:445
+
+         Please Enter a Valid Choice(1/2/3/4)
+ Enter the Choice:2
+
+         The popped elements is 56
+ Enter the Choice:34
+
+         Please Enter a Valid Choice(1/2/3/4)
+ Enter the Choice:22
+
+         Please Enter a Valid Choice(1/2/3/4)
+ Enter the Choice:1
+ Enter a value to be pushed:2
+
+ Enter the Choice:1
+ Enter a value to be pushed:3
+
+ Enter the Choice:3
+
+ The elements in STACK
+
+3
+2
+ Press Next Choice
+ Enter the Choice:2
+
+         The popped elements is 3
+ Enter the Choice:3
+
+ The elements in STACK
+
+2
+ Press Next Choice
+ Enter the Choice:4
+
+         EXIT POINT
