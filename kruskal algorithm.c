@@ -152,3 +152,15 @@ int main() {
   kruskalAlgo();
   print();
 }
+
+SAMPLE OUTPUT:
+NAME-pandeti sai vinitha
+REG_NO:192125090
+
+
+2 - 1 : 2
+5 - 2 : 2
+3 - 2 : 3
+4 - 3 : 3
+1 - 0 : 4
+Spanning tree cost: 14
